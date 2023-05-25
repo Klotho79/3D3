@@ -1,0 +1,5 @@
+﻿  Game.cpp
+H:\Visual Studio\Pokusy\pokus 3d2\3D2\Game.h(8,10): fatal  error C1083: Nejde otevřít soubor zahrnout: SFML/System.hpp: No such file or directory
+  SFML.cpp
+H:\Visual Studio\Pokusy\pokus 3d2\3D2\Game.h(8,10): fatal  error C1083: Nejde otevřít soubor zahrnout: SFML/System.hpp: No such file or directory
+  Generování kódu...

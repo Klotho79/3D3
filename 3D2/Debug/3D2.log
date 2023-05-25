@@ -1,0 +1,3 @@
+﻿  Game.cpp
+H:\Visual Studio\Pokusy\pokus 3d2\3D2\Game.cpp(80,85): warning C4305: argument: zkrácení z: double na: float
+  3D2.vcxproj -> H:\Visual Studio\Pokusy\pokus 3d2\3D2\Debug\3D2.exe
